@@ -1,4 +1,4 @@
-#my API KEY: AIzaSyDyiSclZPTIWJyVB2B1BSMWOs9Z6e6v1dM
+#my API KEY: ##################################
 
 # restaurantLabels[0] : Name of Restaurant OR Error Message if No More Available Restaurants
 # restaurantLabels[1] : $$$ indicating Price Level
